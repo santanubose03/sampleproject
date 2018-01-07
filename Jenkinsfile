@@ -1,4 +1,4 @@
-@Library(SharedLibraryTest@development)_
+@Library(SharedLibraryTest@master)_
 
 node(){
  sample()
